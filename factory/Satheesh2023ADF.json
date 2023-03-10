@@ -1,0 +1,9 @@
+{
+	"name": "Satheesh2023ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc1119e5-d0bc-4d76-9a78-c9e236ede8fd",
+		"tenantId": "a68c9ee4-8fe1-4b1c-a4c1-607e329bdc65"
+	}
+}

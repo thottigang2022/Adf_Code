@@ -1,0 +1,19 @@
+{
+	"name": "lk_pipeline_manual",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 5
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-03-08T17:50:56Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

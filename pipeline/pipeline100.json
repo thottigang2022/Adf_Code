@@ -1,0 +1,19 @@
+{
+	"name": "pipeline100",
+	"properties": {
+		"activities": [
+			{
+				"name": "temp task",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 5
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-03-07T12:24:17Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
